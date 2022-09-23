@@ -11,7 +11,7 @@
   --font-icon-primary-color: #fff;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 800px) {
   body {
     background-color: #1c1a19;
   }
